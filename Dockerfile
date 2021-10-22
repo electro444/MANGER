@@ -72,7 +72,7 @@ RUN python3.9 -m pip install -U pip
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/love
-RUN git clone -b shiken https://github.com/PsychoBots/Lovish-RoBoT /root/love
+RUN git clone -b shiken https://github.com/SADSKING/MANGER/root/love
 WORKDIR /root/love
 
 #Copy config file to /root/love/love
