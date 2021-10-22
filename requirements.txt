@@ -63,7 +63,6 @@ nudepy
 envparse
 py-tgcalls
 python-dotenv
-
 python-arq
 fontTools
 aiofiles
@@ -74,6 +73,5 @@ google_trans_new
 redis
 pyowm
 tswift
-
 pytube
 ffmpeg
