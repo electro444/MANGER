@@ -74,3 +74,4 @@ pyowm
 tswift
 pytube
 ffmpeg
+telegram
