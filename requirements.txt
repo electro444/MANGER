@@ -56,7 +56,6 @@ bing_image_downloader
 search_engine_parser
 pytz 
 youtube_search_python 
-#profanity (Credits to Julia)
 better_profanity
 textblob 
 nudepy
