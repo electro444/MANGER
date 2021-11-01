@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey....!\n
+Hey,My Name Is EO MANAGER BOT
 Welcome I am Pro Group Manager👀
 • I can help you to manage your groups very easily with my special features 🤗\n
 • Add me into your group\n
@@ -85,18 +85,18 @@ Welcome I am Pro Group Manager👀
 buttons = [
     [
         InlineKeyboardButton(
-            text="✛𝘼𝘿𝘿 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋✛", url="t.me/MISS_JASMINE_BOT?startgroup=true"),
+            text="✛𝘼𝘿𝘿 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋✛", url="t.me/EO_MANAGER_BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="☉𝙃𝙀𝙇𝙋 𝙈𝙀𝙉𝙐☉", callback_data="help_back"),
     ],
     [
-      InlineKeyboardButton(text="•Aʙᴏᴜᴛ•", callback_data="masha_"),
-      InlineKeyboardButton(text="•Dᴇᴠ•", url="https://t.me/XD_OFFLINE"),
+      InlineKeyboardButton(text="•Aʙᴏᴜᴛ•", callback_data="ELECTRO_444"),
+      InlineKeyboardButton(text="•Dᴇᴠ•", url="https://t.me/ELECTRO_444"),
     ],
     [
         InlineKeyboardButton(
-            text="×𝐒𝐔𝐏𝐏𝐎𝐑𝐓×", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="×𝐒𝐔𝐏𝐏𝐎𝐑𝐓×", url=f"https://t.me/eosupportff"
         ),
     ],
 ]
