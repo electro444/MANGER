@@ -8,12 +8,12 @@ from love.modules.helper_funcs.msg_types import Types
 from love.modules.sql import BASE, SESSION
 
 DEFAULT_WELCOME = "Hey {first}, how are you?"
-DEFAULT_GOODBYE = "Nice knowing ya!"
+DEFAULT_GOODBYE = "You Are Dark Side"
 
 DEFAULT_WELCOME_MESSAGES = [
     "{first} is here!",  # Discord welcome messages copied
     "Ready player {first}",
-    "Oi Chrome, {first} is here.✨",
+    "ELECTRO 444, {first} is here.✨",
     "I was ten billion percent certain that {first} would join us!🔥",
     "A wild {first} appeared.",
     "{first} came in like a Lion!",
